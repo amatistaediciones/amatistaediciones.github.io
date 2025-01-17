@@ -584,7 +584,7 @@ p{
     }
 }
 /* Responsivo para dispositivos móviles */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 747px) {
     html, body {
         font-size: 14px;
     }
@@ -637,11 +637,11 @@ p{
     }
 
     #countdown span {
-        font-size: 0.8rem; /* Reduce el tamaño de la fuente principal */
+        font-size: 1.0rem; /* Reduce el tamaño de la fuente principal */
     }
 
     #countdown p {
-        font-size: 0.8rem; /* Reduce el tamaño de la fuente secundaria */
+        font-size: 0.6rem; /* Reduce el tamaño de la fuente secundaria */
     }
 
     .popup-content {
@@ -671,11 +671,12 @@ p{
     
     
     .menu li {
-        margin: 0px 0; /* Ajustar el margen */
+       /* Ajustar el margen */
+        padding-right: -5px;
     }
 
     .menu a {
-        font-size: 6px; /* Ajustar el tamaño de la fuente */
+        font-size: 4px; /* Ajustar el tamaño de la fuente */
     }
 
     /* Colocar 3 botones abajo */
