@@ -632,7 +632,7 @@ p{
     }
 
     #countdown{
-        top: 120%;
+        top: 123%;
         left: 52%;
     }
 
@@ -676,7 +676,7 @@ p{
     }
 
     .menu a {
-        font-size: 4px; /* Ajustar el tamaño de la fuente */
+        font-size: 3px; /* Ajustar el tamaño de la fuente */
     }
 
     /* Colocar 3 botones abajo */
