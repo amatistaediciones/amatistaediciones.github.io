@@ -632,12 +632,12 @@ p{
     }
 
     #countdown{
-        top: 140%;
+        top: 150%;
         left: 52%;
     }
 
     #countdown span {
-        font-size: 1.2rem; /* Reduce el tamaño de la fuente principal */
+        font-size: 1.0rem; /* Reduce el tamaño de la fuente principal */
     }
 
     #countdown p {
